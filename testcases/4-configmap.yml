@@ -17,4 +17,3 @@ spec:
        items:
        - key: sample.conf # the name of the file used during creating the map
          path: sample.conf
-
