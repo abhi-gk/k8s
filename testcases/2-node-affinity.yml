@@ -19,4 +19,3 @@ spec:
           command: ["/bin/bash", "-c", "while true; do echo Adam-9739110917; sleep 10; done"]
       nodeSelector:      # specifies which node to run the pod
          mynode: demonode
-
