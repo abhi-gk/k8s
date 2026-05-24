@@ -59,4 +59,3 @@ podLogs:
   enabled: false
 alloy-singleton:
   enabled: true
-
