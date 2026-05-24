@@ -24,4 +24,3 @@ spec:
         - name: mypd
           persistentVolumeClaim:
             claimName: myebsvolclaim
-
